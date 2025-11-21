@@ -125,10 +125,7 @@ zig build test
 
 **teamcarry11** (⚫ / XVII. The Star)
 
-the illuminators who teach time, wisdom, and tradition. leo's solar
-radiance meets the hierophant's patient teaching. we make time
-visible, understandable, and beautiful.
-
+the wisdom carriers who preserve knowledge and pour it forward. the star brings external waters (repos) into internal pools (grainstore) for study and learning.
 ## archived steel version
 
 the previous steel (scheme) implementation lives in:
