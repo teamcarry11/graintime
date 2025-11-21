@@ -123,7 +123,7 @@ zig build test
 
 ## team
 
-**teamshine05** (Leo ♌ / V. The Hierophant)
+**teamcarry11** (Leo ♌ / V. The Hierophant)
 
 the illuminators who teach time, wisdom, and tradition. leo's solar
 radiance meets the hierophant's patient teaching. we make time
@@ -136,7 +136,7 @@ https://github.com/teamcarry11/archive-steel-graintime
 
 ## license
 
-triple licensed: MIT / Apache 2.0 / CC BY 4.0
+Multi-licensed: MIT / Apache 2.0 / CC BY 4.0
 
 choose whichever license suits your needs.
 
