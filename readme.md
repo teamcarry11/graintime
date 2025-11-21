@@ -123,7 +123,7 @@ zig build test
 
 ## team
 
-**teamcarry11** (Leo ♌ / V. The Hierophant)
+**teamcarry11** (⚫ / XVII. The Star)
 
 the illuminators who teach time, wisdom, and tradition. leo's solar
 radiance meets the hierophant's patient teaching. we make time
